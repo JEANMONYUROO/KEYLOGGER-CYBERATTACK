@@ -1,4 +1,5 @@
-import logging
+try:
+    import logging
     import os
     import platform
     import smtplib
